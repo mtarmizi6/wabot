@@ -1,0 +1,824 @@
+{
+  "project": "wapromobot",
+  "schema": 1,
+  "baseBuild": 212,
+  "compatibleBuilds": [
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212
+  ],
+  "build": 213,
+  "files": [
+    {
+      "path": "design-qa.md",
+      "sha256": "a9c36e8c110d4b10aa3ea738cabed85a639f67247b80d714b985f8361cd704b1",
+      "before": "a9c36e8c110d4b10aa3ea738cabed85a639f67247b80d714b985f8361cd704b1",
+      "beforeAlso": [
+        "d81b0e549ae73f54216ed21c740e17399669dd116de6b7c3d16a4f3bbbca48ac",
+        "d10a04c73882c1d394fb5596f51ede62742cdca36839c11c4d9f2d92c36138bb",
+        "c3f55b30da80bb47e4fafbd364acd55b2674d2b1f3dfe1d18077cab993241184",
+        "d6a6ee53de1a2d31dfa306b98a63f821b4060276e82babee118fcec014ff672b"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "README.md",
+      "sha256": "6c8a773a660eec1cae0cae0ce19bab6b1966e839c801d325ef5dc24e820e2113",
+      "before": "6c8577c90acc66cfcff35ec5889dce6118202458c8439727420e96386cecc9d7",
+      "beforeAlso": [
+        "f9d987ea27ea98702f4d89118598c826bd1ad3f13c7d7f63fbc27e5a407c619b",
+        "242778fa01462512a450862d8cec8a1ccfbfb435ab463adedef1d5fc8a0d9e66",
+        "ee5fcb72d82e3d73a533e75edaaf5d032c4f85a3d93b70ef273d222cc2536f58",
+        "e0d2b2b19a82700ebf401e3be46184dea5dee4810fcdae07694e5ebb1b75b50b",
+        "13a5cd8b588f8619f803ecac950f411a4c74f946d2171e962aa8f2eee886efb2",
+        "d2a9b56ff66bfa79270540e73af3a13b5a5dc4f64b2340df46ffdf6c198f1ce9",
+        "a41d357e3f34579aec2735ccb5f330478d4ba1c7346856ba7c454fba3cfe6e8f",
+        "45c72287d4413221927710646bb74245a034bdb5ee3fba5696832e9823528a2f",
+        "bcc13d5a134397b1cdcdecb3b000c4fdc919b12ac505315cbea95a519bb3d6a2",
+        "51a1ac0610ab5962189cbb39e26ea1ff87aa924553bc19a40db41c5fdbc3600e",
+        "59d16444271eb065f602f06e870e9b433af99ee880ef6c6b0c6638c56724d55d",
+        "4166ad37a57e99bf6caad48fd9a743771d573809e1648c643904f74e8a06d8e7",
+        "6e6607c11467e3cdbf0ca7fd3a778024ea81e080e1358d7e74680c0e3a1a7612",
+        "ca5df8f723982f2e205784f68d9032dbef18fbc048e6b0ce830da9cc322aa53b",
+        "aee75bbc5eee79c8d6b1e23276711071ddd851d12fc08c0bda5e8c681a988b09",
+        "c56f190bf7526195cea5519c33aab1906db6d9b3614877c48523a08eb1b6e3d5",
+        "0c298fed7ecd47625f58c5a8f6201ca19346026fbe2dd9ba2af5f41c171aeb5e",
+        "54bc2415603249cede0ff45f29beb5303fda679ffffbcb2568d902dc206dd35b",
+        "937a299a9ffcddcf866b98196dd89d7b476e3a2620a872d972603b310a428a1e",
+        "36e8698d37d071c23f3f08eaede5074fa798919e2577663997f3ebc732746d44",
+        "30b7329a6dab627e867a59c0ad86ad1dadf737fcc34558f8debb9564e5e64881",
+        "d093075547996227268b533da18295534ea008b35eb7c09df1345f9f6518ba07",
+        "fc230815ce86281cabc2e80b242e4939250ef3b827a8830b46814c097696abb9",
+        "f9f100762e03a1ae85ad67bd32d73a7bc120468b7fa466c2e1989fcb02fd1602"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "MINIAPP.md",
+      "sha256": "83867821159de9f9c8f1535a53e71422a5763ab2561f6607d6b733f6a397ac00",
+      "before": "b79a7e140e4349ad1271fad5c469230d5a5512ca2593b7ac51d584ad8127ce4f",
+      "beforeAlso": [
+        "f6ea14dac832f8f9316ae15c8338a9e5c01c82e5902f6b5e72364bb438bc2708",
+        "114199295c8c056127170a30ee1176cb849bf4d87d416c481dfe8e67ca533d2b",
+        "93ff9650589afd68ffd4720d193bd997f56830d8cafda36405abe3eec3c522f4",
+        "b21fada4c8091b6c258a96824ae6dc409d05433d86a3103480b7a3b1ca6a8a83",
+        "ca5701d059144356a858541be5846e743355e2143803e71002c7861baf8ed762",
+        "ece973e50565fca10e341a50a7a740544818c98900c7bc95a2866faee9deef70",
+        "8def66c01cfeeb647046490b0eab50f549ac02315fbae88316dbdece27efad48",
+        "93597b17e17b9b8d0e9de7f4f204046600e5a58c08eadf19acf594eac59f7f88"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "package.json",
+      "sha256": "5f32765981b036c9c488ef9d7d3b8e0575bb6174c78b4cdf3b60753e2cdd7a4b",
+      "before": "6361c41ed078d5fc70f1e8b43617a579bd4ba1a59a9ced10278b0abbdb6fbc02",
+      "beforeAlso": [
+        "ff2f39b8f159e6c290846b5ab5d0344962d9ceb4f4aa67bf604318f18ff9f3cc",
+        "cd29182854ab9895bcfc7c34f7647fdb8d14d876ac0f720084c924904c9dd01c",
+        "24707243328e0db2e287b2e524382edc294cb45dc3cc8fc4dc7562e9010509d9",
+        "77eda9102ee7a0f127d9d1382ecaf67461b937a18c5099edcab97ad3c87f545d",
+        "80f5598163100c5eb4964a8a3da892e3cb59e1d73e98b8730623f2ec4b05f00b",
+        "62bdb4ef8357e90b01c547f571f3593fc3ed8d57a125aef0e507d2739421bcd5",
+        "35a1c451cdf394b9940daadadb467273a01ed06cb8b45289934eb2b2c40808a3",
+        "c0a3b2afa90cebbe1a0c46556feb70517a35373c39f0e882836b113267079fa4",
+        "4642cde2acb22c57d24c4ffc64d0d462074b4bcaaea2f958f6e45d7886604264",
+        "2e440c30bea1035ad3b4b50cb2cefecb885382b084cf596c6f6b99bd9f7ac848",
+        "117dc4d08cfdbc9f0ddfaeb497f7a2ca87092086a937f242208c629ed8a768cd",
+        "bdf92a182d1f0d735ec51faa04838d792bd90c0e60c73f1bf5bde98f1add0829",
+        "d99010071487193718e076eb98265e05a1de32caeb5558a1a472a616529628df",
+        "5ba00f0793f5a556b59d8d9276bd33dfd6b6bc73e1c07b74d4407c9279bd6a98",
+        "3d86314b64588894999eaba2367286fb7e0911ae4047ddb95b3b4fdf640aeb27",
+        "4f0277466a1aacc2cbb16ed2cb896d940396172ed51e9ccb08252b97d46be7b7",
+        "c7da4d54ad88476c83f8ffe2f75d1264ac152ef372dee43646acb468fc90e208",
+        "c96d6fd83d5867471a2f5535cb87bce7973436f9586a585e6a62fd30e7870382",
+        "9bd2d8545cb1723e96d42bccb6468fb5d32454baebcb650d9039347989ab2828",
+        "e56385d453b104ca03ee301dbf4cd61c16c2fc70cf5c9d480be94e93ce7e4435",
+        "e1405ea4a068b12bed38d732465385d688c21f95b0178e8348dfe6bf33d70f3f",
+        "a5603030f353d31e35dc872519a47ee54655260f6f975f3fed0df78fcc282ecf",
+        "2f414e1acc7fcc6846ab5cba376143537e89ad89bc267c3292fc601465de8c18",
+        "5801c8e6df7299d25c41c4694acfb2c3ecccf82795b97a25fb8c36650e8822f9"
+      ]
+    },
+    {
+      "path": "scripts/telegram-controller.js",
+      "sha256": "b5ca26571e32c00fedf2180b7cfa52579787f92d17b2dff901b924ffc89d785e",
+      "before": "3e3af6a13b5c29365a0b66260c65b544ab559a8613330f6fd15889741e9e06b8",
+      "beforeAlso": [
+        "81f8b19303df0fa81eacffce035f9c95b80a7a24f506224b330946efaf43d30e",
+        "7f1d8aa36a21b84ad7f24da73386a44c1515f884dc6f593cbef87af416cb4784",
+        "57349eeb92a0f6059f21101819653efbf5fe42a6caf5e88f51653d33278c1ede",
+        "a9305e173dc0173126222d85534f123693b4c6543edd3f6a59421f7b9eb9cd81",
+        "5ea53f9eb0761551b5af5056cde9eaf9759b3c578d1a93618e5361407d65c878",
+        "c83197bd28bf3f50e1ee048af1a537351c8ade00b425d2836da8c47fd6b270bb",
+        "80179544135a212e49dfd159f013c6a23ec47148ab5fe6468837594e6b4320ea",
+        "a65eca32899dae5d9fdc70174b2442d5f3f671c4d3d527c99ccc0cfbf23fd385",
+        "289f29c3c55edad74ecd12291bc7ca7ee1625da61f7afddee167c13b5161ae10",
+        "b28d177a4c60a0ba1ce9242d7298118205ec7877d8805c7519ca75e067519e00",
+        "6cabd1249d6af2260419d4521193afbe71d7c47b0cd5670446b5cb5c83eea03e",
+        "df625cff4249669bd46d682a353e9b221e158a48873b0714ca3112a430c653a1",
+        "6b02db0c99a4cac9a47aa4f91b83bd9bbcb61deb2b188535dc884f98d38a9128",
+        "4dc8878c6f7563ff8b12ec32fdbfb20c6cfaa9274d51a60799286938ef070514",
+        "e092d92de652e57d4a9ae5ca870a779752396b1baae4690315a1c4c94d157cd9",
+        "83c99db3cf0638c9f158aa27b2a1084eeaca4bc0fc1ad7321097291b0bf1d6e1",
+        "481221231b12a7276d588342cfbb191a6e0e7d6203b2327b8d1ad5984a5b16b7"
+      ]
+    },
+    {
+      "path": "scripts/update.cjs",
+      "sha256": "57e925cb6b7be98434ab21750d0458242fe4fe2f8d6973fcebdbd0fa99892ff2",
+      "before": "57e925cb6b7be98434ab21750d0458242fe4fe2f8d6973fcebdbd0fa99892ff2",
+      "beforeAlso": [
+        "c98901bf46a53c75d8a2a8d19dfda16e47ad8958cfa2e5e4a9453ff2b4cffaaf"
+      ],
+      "optionalExisting": false
+    },
+    {
+      "path": "scripts/check.js",
+      "sha256": "bb85c4795c810fc98502e2b074b2b9b26cd55cd1a24f46f50ca06e99b0d219a2",
+      "before": "bb85c4795c810fc98502e2b074b2b9b26cd55cd1a24f46f50ca06e99b0d219a2",
+      "beforeAlso": [
+        "9b1d3b3da7ec5e4d26055572541af97c8dd7d3f37533b96b86f78df4effd5219"
+      ],
+      "optionalExisting": false
+    },
+    {
+      "path": "scripts/miniapp-preview.js",
+      "sha256": "ae5b55e93069bcce6d72712d3fc7f37555f916dcee708aacd1f1df2a329bd9db",
+      "before": "ae5b55e93069bcce6d72712d3fc7f37555f916dcee708aacd1f1df2a329bd9db",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/index.html",
+      "sha256": "db19f84237a90bd7b8919db6ad2647566d5dc677807b9bb0066eeae9d489bb69",
+      "before": "db19f84237a90bd7b8919db6ad2647566d5dc677807b9bb0066eeae9d489bb69",
+      "beforeAlso": [
+        "a2064ef4f73825f52c2604a1faae83fae24e7d49a1e3374eae4cd7ebbc851782"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/preview.html",
+      "sha256": "4810a0e150fc8d5009e4f1e2b1170b47f611fa6f357c9fda80318119a61b36ab",
+      "before": "4810a0e150fc8d5009e4f1e2b1170b47f611fa6f357c9fda80318119a61b36ab",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/demo.js",
+      "sha256": "fe94ac4acdbc23ed21329ed038a2781c6fd82c6ea4ab389c9fb988ba9c24b9bd",
+      "before": "68e8c9db104d9421a7d5a5d683707f1ff6c8f0b960ccb3e25610fb7403435f42",
+      "beforeAlso": [
+        "f2a17ee05d79a0e5e6712ccc36beb93ffa9cc43f04d79863c14434769384c608",
+        "238b6e474bdb0a82ab28f46a3d7f1a7cbba6a139653732654ef11639827e3941",
+        "5153fa73500bd81aca85597902a24c28e8a4f4f4605ca80701883abac4328258",
+        "eee6618bc48b13072a1deed21c87224ca7ee0096e6903e718747320414498fd2"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/app.js",
+      "sha256": "03759db7e21e109ca82ad39ae23c5b64553c030125086ce6c372459d6646a0f8",
+      "before": "b7e333761b2fb3a589d9cd6656dfbe17827db30324f80c529e9aa58b51534dfa",
+      "beforeAlso": [
+        "7a4fad093a7b5703a15aed8de7ba806ecc733d476b63cee83a69e23d8f712624",
+        "b07916f905684bba60cc4a6680ca90bd960ed98b172ea30d5bbc6cd7891ef324",
+        "3e6144fb36a35d2180baa61ca13ef9b153ab9e1dddf29c8a6d898c0f68cd3216",
+        "ecf66ae471752098cbe6e10881d9eda1ff91a4ec44d7c295b9f5080d68c0f633"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/app.css",
+      "sha256": "8c2aaf172c30cc3761c82eff8464622f68f7c15ca3c849e2cf808f0e31c42a01",
+      "before": "ab9b7f1b54c258a2c36c549858ba478c7aa3d4310d9549926001353cd05f4b92",
+      "beforeAlso": [
+        "8c2aaf172c30cc3761c82eff8464622f68f7c15ca3c849e2cf808f0e31c42a01",
+        "f55f9a3f8c5f07af2faba48ceb1ac791e194f884014827c9d191ebc05c1df2a2"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/miniapp-ui-state.test.js",
+      "sha256": "d13fa759baa70030328698da866f686688725d36d14cf5aacdde3770fd6986dc",
+      "before": "6145da5f36beaddfc57a23844695e017825d4dc1cb9e07ab96d1319972edf49a",
+      "beforeAlso": [
+        "d13fa759baa70030328698da866f686688725d36d14cf5aacdde3770fd6986dc"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/help-197.test.js",
+      "sha256": "8bd87af8ed49e09e770477fec388c17ac13ad081551b52a9d8065d92571f3ebd",
+      "before": "8bd87af8ed49e09e770477fec388c17ac13ad081551b52a9d8065d92571f3ebd",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/gs-live-parity.test.js",
+      "sha256": "9add06da5233ce1d28bd03cc330f988e48687ff770a51c1ca5caf6a6506fbf9b",
+      "before": "9add06da5233ce1d28bd03cc330f988e48687ff770a51c1ca5caf6a6506fbf9b",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/member-export.test.js",
+      "sha256": "522e29251ee5d6142bcf3da0892a0b2f023536c85e8f0e3ca98e01089d546c14",
+      "before": null,
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/miniapp.test.js",
+      "sha256": "21aee18c814fb016b17955f996792c7a7d73febbb1d8b00bc13ef4dfad46ed5f",
+      "before": "21aee18c814fb016b17955f996792c7a7d73febbb1d8b00bc13ef4dfad46ed5f",
+      "beforeAlso": [
+        "0aebb82b69d69aaa9e324853d4371a82897654b318ca7e7705ab17f0f6ecd77f",
+        "3c2a4e40130f5d34852199d40db2a59458139b16ca8b41bc593df643c5731db5"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/posting-flow.test.js",
+      "before": "38e5024dbbf4486c696f19bad6fb4ce19f5ef9affd68786d636cdc93667ec445",
+      "sha256": "a140ad6a62cd02a2c89ecc68458b06a6d8ce06b22f6d4db64ff87e9d251646c4",
+      "beforeAlso": [
+        "38e5024dbbf4486c696f19bad6fb4ce19f5ef9affd68786d636cdc93667ec445",
+        "8836e1373f22fff169530b146c7a04d87e333668da386c49670462ea40aee0ba",
+        "cbdaca44dcb9c9c30702da2219559a7b756fe9cc21498035ef6e6fa56cb3937f"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/system-maintenance.test.js",
+      "sha256": "32303f0aa152530887a0be16714a0ba71c5798b2a7173ac79663e44893a7b2ff",
+      "before": "32303f0aa152530887a0be16714a0ba71c5798b2a7173ac79663e44893a7b2ff",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/miniapp-readiness.test.js",
+      "sha256": "5cafaa309fd4d204500a13cb24bc98e320977cca7c19d4c740b36db741e4c0f1",
+      "before": "d2669bd6577d693ebb2ceae269930d3891f992177fd45a50b43a5e2199a29f13",
+      "beforeAlso": [
+        "e8a7ff5cc9c7f5fc0d1e9d99336271772411378b9abaf9b30fd91c1a341d8d25",
+        "f6199a2095d2f596739fbdcd5d5ce5012dca3ae38b48a711433088e2cce389e1"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/gs-flow-188.test.js",
+      "before": "f1285a0adfccee521f1904358956228686a158ae65487133a070b07157a819c8",
+      "sha256": "de4dcda5ee62fd0d67a56ace3e89bad6007d681eb6f84a56f4471348546992dd",
+      "beforeAlso": [
+        "f1285a0adfccee521f1904358956228686a158ae65487133a070b07157a819c8",
+        "f62a8861ad8d903e009dec9cbdeb8a5ed513d3b26d976731bfe3e1161edea42a",
+        "3718b1733ef5c5b210c5b3668e0b6ba6686171475b09da5c4257aead44b2400d",
+        "ab938a5d83e5595e2ff215f48f5775e4377569f22ff2098601e1767ca3f0db34",
+        "22605cdbf83578eb8ee16e1b5991df18c297160d6f04b38469c15100ddbc2320",
+        "e6c15f651b9eefe27ee277072a55295797cf96e9aee029c7a4ea8df8286c652a",
+        "239f2576ff65f44d67ba67b07202e3696007b008c73a91d5897d8584f84d20c6",
+        "d0e9c19a5ffcb2d7c4ef462a8b198a39dd93e4fcb73476d030708dcd4b286656"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/gs-live-diagnostics.test.js",
+      "sha256": "a0d77329d7c1b69a8485856c52013ee70bd285f5d4eb0e6c5f5c9c804fe9fdb4",
+      "before": "a0d77329d7c1b69a8485856c52013ee70bd285f5d4eb0e6c5f5c9c804fe9fdb4",
+      "beforeAlso": [
+        "b2308b135bbac230e95478a138d6da917e8a9dfaa0274801438544bb906ac0f3"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "tests/campaign-hub.test.js",
+      "sha256": "d9e7d0d183a4683c646b6625a342e92d9ee806c957bd25d095cc4fda7088e68b",
+      "before": "d9e7d0d183a4683c646b6625a342e92d9ee806c957bd25d095cc4fda7088e68b",
+      "beforeAlso": [
+        "60067013c42e96e4c06df6c5a15c130fdfd057266f9389a30e29afb2d227e45a",
+        "ee3cf6e8bf2a392b36c8b81df8d68660c1e3cb8103555ada4936e0340b0dda31",
+        "80e0e7d18428a75d34e036b917ddefefee5e02665f8a6b048c23be47aa090fc6"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/logo.png",
+      "sha256": "7199976bf55834431b1e7639361831719df36a6520a41110d1200b8b92ace0d0",
+      "before": "7199976bf55834431b1e7639361831719df36a6520a41110d1200b8b92ace0d0",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/jakarta-700.ttf",
+      "sha256": "32971ad7976930539a11c79ce91ce84092df7f25c5be716b594601842f10a7ae",
+      "before": "32971ad7976930539a11c79ce91ce84092df7f25c5be716b594601842f10a7ae",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/sora-400.ttf",
+      "sha256": "1b547e90e4c49aa12e9a35ca8acc91732e188aa9fdbe08d2299ea4d4cae72145",
+      "before": "1b547e90e4c49aa12e9a35ca8acc91732e188aa9fdbe08d2299ea4d4cae72145",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/Sora-LICENSE.txt",
+      "sha256": "ba0b9729c9428ba79a0459ab8ec575791b51509dbec213e383d0316d37fec299",
+      "before": "ba0b9729c9428ba79a0459ab8ec575791b51509dbec213e383d0316d37fec299",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/fa-solid-900.woff2",
+      "sha256": "7152a6933ee3d690ec2af3d09da9d701723d16aa3410a6d80f28ff8866f3b880",
+      "before": "7152a6933ee3d690ec2af3d09da9d701723d16aa3410a6d80f28ff8866f3b880",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/jakarta-600.ttf",
+      "sha256": "50357df108c5d297ec4ece76aeddf49561f3794f67af077cfc2c711b7a75b439",
+      "before": "50357df108c5d297ec4ece76aeddf49561f3794f67af077cfc2c711b7a75b439",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/fontawesome.css",
+      "sha256": "f322709f9bf212bf4b295362962950d383ea1a8be67690161ee50f0af7cbfb8f",
+      "before": "f322709f9bf212bf4b295362962950d383ea1a8be67690161ee50f0af7cbfb8f",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/sora-800.ttf",
+      "sha256": "273c4607b34e1a0ba805a67e196c147b455ce8667a331ea9225551e46617a2bf",
+      "before": "273c4607b34e1a0ba805a67e196c147b455ce8667a331ea9225551e46617a2bf",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/sora-700.ttf",
+      "sha256": "a50f5d254fc0fb83125fceffb72a95d036b8ce964a77fb8cc42ecb9ce16b0427",
+      "before": "a50f5d254fc0fb83125fceffb72a95d036b8ce964a77fb8cc42ecb9ce16b0427",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/fa-brands-400.woff2",
+      "sha256": "748332090c4b8e20f95d0ff59f0be20fa9c889359d3b36d4b886d73376054207",
+      "before": "748332090c4b8e20f95d0ff59f0be20fa9c889359d3b36d4b886d73376054207",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/jakarta-800.ttf",
+      "sha256": "d9e0ddb4a15a0054ad84b4ded3b4b9f354a0b7df426e21a1363d6933728da9d5",
+      "before": "d9e0ddb4a15a0054ad84b4ded3b4b9f354a0b7df426e21a1363d6933728da9d5",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/sora-600.ttf",
+      "sha256": "4e79171a1720d04b72eb68bd7604f85888c31c05bb6b432147d4524e9439af30",
+      "before": "4e79171a1720d04b72eb68bd7604f85888c31c05bb6b432147d4524e9439af30",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/Jakarta-LICENSE.txt",
+      "sha256": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99",
+      "before": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/jakarta-400.ttf",
+      "sha256": "076831b98043f50f829b6c91db3be4a844641f1c95bccff5c886ed87c661a852",
+      "before": "076831b98043f50f829b6c91db3be4a844641f1c95bccff5c886ed87c661a852",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "miniapp/assets/vendor/FontAwesome-LICENSE.txt",
+      "sha256": "9b914eae88817d63b576eab5aafde7068c7a1abae125d7cdfb034f1da43a9afc",
+      "before": "9b914eae88817d63b576eab5aafde7068c7a1abae125d7cdfb034f1da43a9afc",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/telegram/posting-ui.js",
+      "sha256": "244fdc228098bb576567fe7945a14877e69d845ba0a023d643f649898b9f781e",
+      "before": "244fdc228098bb576567fe7945a14877e69d845ba0a023d643f649898b9f781e",
+      "beforeAlso": [
+        "55a96d479e1008c20e951e633041ad9cfb229d9fef28e70c81221f8287294da7",
+        "6df40bf1f79f7dc78145cf7349e40845730d1b0444ef20fb3d7307cfef4f97f3"
+      ],
+      "optionalExisting": false
+    },
+    {
+      "path": "src/telegram/posting-live.js",
+      "sha256": "dbba39648f9a48f6cd5429052730aabe7c28b67ad21ce222001b4815c6e449d2",
+      "before": "dbba39648f9a48f6cd5429052730aabe7c28b67ad21ce222001b4815c6e449d2",
+      "beforeAlso": [
+        "483a5521e7fcf5afd2c4a4affe9d8774450fd68aa2d1cc8090cfd8ec0f4d5067",
+        "b45ab0fd8419d9d0c4aaf3a5c92d6f88d5b07f50a3033f512cbe91fefb2b461b",
+        "e87b1b6c7b341d87b5c69c293d8a9f484bc516c33a391949eb041f6847636380",
+        "cdcdde5fe93334f4c97e422c2c2f923816fa6291981a277aae218d105951bda1"
+      ],
+      "optionalExisting": false
+    },
+    {
+      "path": "src/telegram/groupstatus-live.js",
+      "sha256": "aad7f2f2960202df9ef145aed71ac1b5ec2d51db7dfb3ca6abbf5ed6364c8d58",
+      "before": "aad7f2f2960202df9ef145aed71ac1b5ec2d51db7dfb3ca6abbf5ed6364c8d58",
+      "beforeAlso": [
+        "177ef511bb643417cb032999ecd958d5707bf32dd3fb60f14c596441ae2c94b1"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/telegram/groupstatus-ui.js",
+      "sha256": "5641d6a7244feca60231a58de6dfccee57729ebe828e26a0e24cf6822f4db9c3",
+      "before": "5641d6a7244feca60231a58de6dfccee57729ebe828e26a0e24cf6822f4db9c3",
+      "beforeAlso": [
+        "601ae903bdde0ee2b3d35dfcc2145e67430b38d160ba5b837575aa65b9b8ee75",
+        "97aa8d15be9b5da40f90a24298d7acf7adeba30360b9c5c690589afcd8276f36",
+        "414bc137826b186204baf619c407617e100dd284ebfc37dab793b549e3b77fb9",
+        "8ac29bca006031ef3850ea45a95f127aad513f4b74128bdbcabd54d48a587a86"
+      ],
+      "optionalExisting": false
+    },
+    {
+      "path": "src/telegram/member-export-flow.js",
+      "sha256": "011777529f4b843caa04135def1be9b7cbddbd77d27f81fee61cfacb3350bfa8",
+      "before": null,
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/telegram/controller.js",
+      "sha256": "8ad36747db0dc968dcb1c509397a1163dcf6239dffcfb6807d38064517859ed8",
+      "before": "a995c6f8f4a4f48b9473b8356ab7fc2b155d6540e185cd6bda65fe9ab2474bc5",
+      "beforeAlso": [
+        "01d57da955be7e5d96a5b5fbb97731e208c52679ef0175d6d87942006f0278f4",
+        "40410e9fbbfccd3a4e8c1dd9a80bdf3026e599fb04a275d0e5d4ea5238138543",
+        "62028029cebb8537ee7ae15f6d37760b90350abd559ac7a9b7f1f28be31a6302",
+        "89538b4c2a75761f8f91edfed6fddef8df3ed0dadbb50b70fcc0cc8be8fecf15",
+        "c6672a80f532cc0c05ace018d412808282cfd09a9b74afa0161048ba75d46c34",
+        "1d1472921a49270d339b748fe1536966f3c48758cefb37e87591aee4629d1cde",
+        "e0afc7e43b81167d23031b80d9e995d14e51be4c98a0632a09803d04a71de1dc",
+        "5884a0257a120b4f7f69b284d8cc49ec89400996c01e4563f6e6a52b02b86d40",
+        "f814aed816358ec87800cbfa111b656dd89ced159b771a438815aa7f1824356e",
+        "36131c59707ff1d01dafd681cee7845c3fe7c895edf49300bbb3ea0532e6d66a",
+        "c51ccca2ac819c69f29b479027886d6e2dc8f8ddd6abd29527c2909d114ffe6b"
+      ]
+    },
+    {
+      "path": "src/telegram/group-ui.js",
+      "sha256": "2f693bb992714ab45aa4ebd6c70b0f3719c7f4f5e3bb35e3af9c9ec9d2eaf0e1",
+      "before": "dffb934ee7b9ab3836015ed981970e38505a2c6f7d3ce59cf226742d82daa28e",
+      "beforeAlso": [],
+      "optionalExisting": false
+    },
+    {
+      "path": "src/telegram/campaign-hub.js",
+      "sha256": "0b414d78de778a7842d141a4b2f928a299bde86a0156d45c24b25508f8e71d84",
+      "before": "0b414d78de778a7842d141a4b2f928a299bde86a0156d45c24b25508f8e71d84",
+      "beforeAlso": [
+        "218e5423f2a9873d4a5ff0e2dff86d71fa2f4538abb3019ee0521ba5a1d7b946",
+        "fea1b24c19db244335de1191dfc6a64bc5e9d7c0cc6b0d993679a281ff4bbe70",
+        "d1cd7dcc232e20f4a8d7366e4b934535f6f9e96f7e5b1387e2a1748bb55eec69",
+        "f45880c3bc826af8a0884d5e93d56d65f4c739f9b9ab8649e269909b8d81201f"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/groupstatus/navigation.js",
+      "sha256": "746c30257c8c55e3c5c6e6a2e19c5ff2568b3908e4d34c8b4331e9cffa2e5181",
+      "before": "746c30257c8c55e3c5c6e6a2e19c5ff2568b3908e4d34c8b4331e9cffa2e5181",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/groupstatus/store.js",
+      "sha256": "d223186e9d4780a65e067dc8a302b0d917a058bb6fb5fcfa6ad36a31175afb1a",
+      "before": "227cf66a3e5cda4874344520995d666b64ca7c2e4e80a9373ebac5525a037a26",
+      "beforeAlso": [
+        "d3344fdbf663b93c612ce07c8dddb2e29c6d8c0a2b6added927f70404f140a1b",
+        "083aa20fab0ed3fd7b04e086bd8a438300381e2919024a37a1effc234d9267e6"
+      ]
+    },
+    {
+      "path": "src/miniapp/controller.js",
+      "sha256": "e3f281d36c5d74652b0029e234f139a26076c88587edc23c2bcf100e08dd14b5",
+      "before": "acdb5c0379398d6e28b7090ba1fabc8858fc93d81afa9f693e7d32b709eced2d",
+      "beforeAlso": [
+        "f18b8807359937b2a8c8f5e77a533a82f10de6be47cf790a8142cecee8ff9645",
+        "b43e972abc8f72351d46b9a5d845d62b60cb6d97f764957eac22fb057961da55",
+        "f39d62747293df5329a9abd1700bdf194f7b6fb39aef0986d5c2d29581ce2cd5",
+        "c9224781784d1c2484f0226440aa81815beb464319a81d022f18af6099816196"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/miniapp/actions.js",
+      "sha256": "a1f17a8fa2f4472b583182510ad07813b261d0e6abe731c51b6b047edd7de6f7",
+      "before": "540a697f37b29810984bf8e3f4339ceff8212b64bae16bc450488f47c72fd3a5",
+      "beforeAlso": [
+        "bb74c2c652fd596043bb77af78f1f2d3470890a965468e9441ef78a95f3d102c"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/miniapp/auth.js",
+      "sha256": "50cd724ef1a54c2efdd46c86cb3a3f0c2c1a42ca69ba613de90bbe648d7324c6",
+      "before": "50cd724ef1a54c2efdd46c86cb3a3f0c2c1a42ca69ba613de90bbe648d7324c6",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/miniapp/server.js",
+      "sha256": "aa272dbbdc35fa81e68edc2ac4b32f77540638ed0ef11f6be3ed90606846e0a2",
+      "before": "9e14add4c257e9305353005a176069cf0704e9a7452a27c16c360b00201af99c",
+      "beforeAlso": [
+        "c39ea68408cf99ee8f2d5265ef3f1df4b2fd0afcba2e6464a19d0f2428298045",
+        "9b90b509a7bbb420dd0dcaa6832d57ad0d16dd740cfd5f74241bed84b9828f0f",
+        "bd5321de92515f87d4dfdcdaee3798fc374e5a14ba6f38a5aface93f9f6f0946",
+        "5b574cc469a194a4bb65297940ab99b8d2cb8511d151ea12bc391f3047f58f9d"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/miniapp/deletion.js",
+      "sha256": "c289ee97a19a73720b4fcdaab75d21297c63f6020e86c478452638da00f197b4",
+      "before": "c289ee97a19a73720b4fcdaab75d21297c63f6020e86c478452638da00f197b4",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/miniapp/data.js",
+      "sha256": "b335431d7e99d9ad5b5c3167c4f4b93be24e9aed30beef74c4c3d5b35f8c8032",
+      "before": "80c1ac5cf77dfd4a8b1d6e1a79267735cdc5534189f16ba78d20657a05acc3c8",
+      "beforeAlso": [
+        "aa05b72c10c3e6795ed5c3e584079d5b58437d73f922828e2c15f0935932a367",
+        "4095e8aa84ad5848f5c3fcaa4104a1d5964951d167bd905f692c806525cceb23",
+        "a39b5e5d42682997c179761dd4041585c915726079dad3ccfb7e6896d526e0b9",
+        "a17e0996c62e6f6e92141d884c131a589a8e5e5b22ed32c67a878049ae8079a1",
+        "3912a8b2497c61add79458bb7ec441cba999e92d0b05bded0aebeead8999b1ce",
+        "3af888d31e45063d47fe2b9b421614757f191494a9a4cee45695c311b1445bad",
+        "5b690533e9a90a47cb36440494e7dbedaf032b68b31eea8c4b758c58a25d6c3b"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/whatsapp/autojoin-runner.js",
+      "sha256": "41bbfb1c1f682b0f9e7c132f3c9b7169172f52fc5768a52c7912ece06482c3d1",
+      "before": "41bbfb1c1f682b0f9e7c132f3c9b7169172f52fc5768a52c7912ece06482c3d1",
+      "beforeAlso": [
+        "727bc58089c45d16d3f7ad207a73df1ccf60b63e4a66cdd54eb52b06c73127eb"
+      ],
+      "optionalExisting": false
+    },
+    {
+      "path": "src/whatsapp/member-export.js",
+      "sha256": "26ceac4ca1837d82cb0b146850c0e30e42e28cd90b1afb063ab06bd02388c06d",
+      "before": null,
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/system/policy.js",
+      "sha256": "98fcb2b899296f6f7a484c1aaf48e56400a65100fa64c55363d1f411538deca4",
+      "before": "98fcb2b899296f6f7a484c1aaf48e56400a65100fa64c55363d1f411538deca4",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/system/disk.js",
+      "sha256": "f27242eb62f1c70bd9dedbab54484c360c26f97fb784c5708b65ee871df2d0d6",
+      "before": "f27242eb62f1c70bd9dedbab54484c360c26f97fb784c5708b65ee871df2d0d6",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/system/lifecycle.js",
+      "sha256": "5ea3bb3cfa4dd37376bb352472147ef84527d3b398ece5651b69d378188ade21",
+      "before": "5ea3bb3cfa4dd37376bb352472147ef84527d3b398ece5651b69d378188ade21",
+      "beforeAlso": [],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/system/flow.js",
+      "sha256": "49a90a20b52584c6dcf73ae0972efeaf4a353c4fa89c5c2cb206c544cae3c6c9",
+      "before": "49a90a20b52584c6dcf73ae0972efeaf4a353c4fa89c5c2cb206c544cae3c6c9",
+      "beforeAlso": [
+        "e0e84414be5edc4e34ecc2768fc8ad53f1a06e87bed9dc57dc25c9308c23e924"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/system/maintenance.js",
+      "before": "25947506d41a100bc99d28d27c2f89810c6529492a342543a8402660bf02557f",
+      "sha256": "a37d86ece8e395e2852e6bb6753c5e7ef9c728824f01494052011ee107ab4cab",
+      "beforeAlso": [
+        "25947506d41a100bc99d28d27c2f89810c6529492a342543a8402660bf02557f"
+      ],
+      "optionalExisting": true
+    },
+    {
+      "path": "src/posting/store.js",
+      "sha256": "8c0fc72f21da9ff7bfe88c2ffe91859e9c3d1124bb02f28282c2e44012ec573f",
+      "before": "8c0fc72f21da9ff7bfe88c2ffe91859e9c3d1124bb02f28282c2e44012ec573f",
+      "beforeAlso": [
+        "63ac49b09a9eac189630b99e75bcfb13aec12ce53cc5a7417c0fe651c3706478"
+      ],
+      "optionalExisting": false
+    },
+    {
+      "path": "tests/followup-integration.test.js",
+      "before": "346214c0b2614632cc7f8f9d41862375e008075c8c438566e08fc53e35b81356",
+      "sha256": "f7026861588556a3ed9b7101cf7fe985c62c1e9f8346c9c0611844aaaf140500",
+      "beforeAlso": [
+        "346214c0b2614632cc7f8f9d41862375e008075c8c438566e08fc53e35b81356"
+      ]
+    },
+    {
+      "path": "tests/group-flow.test.js",
+      "sha256": "ba209dd89d99f43d3ee70d5812d424503452821d2217eaa07dce6e755f2a0a34",
+      "before": "367033571e7cee4fdacee0ccef55cd8df28279ed6db3b49347bde9e9175c7179",
+      "beforeAlso": [
+        "7fbfcfa92b2c5e01eb1ed56bd6ce781df60689ccc0e63e7f58ff434f99a4b37f"
+      ]
+    },
+    {
+      "path": "tests/controller.test.js",
+      "before": "f64390c1304313c6670053e6fa35bf72b33dbf991a56ff22bb090e73a92614bf",
+      "sha256": "ea22cdd06cf00e4643f5aa87b330dfc5bd21bc8d0662dbf82ded23a414e734d0",
+      "beforeAlso": [
+        "f64390c1304313c6670053e6fa35bf72b33dbf991a56ff22bb090e73a92614bf"
+      ]
+    },
+    {
+      "path": "tests/followup.test.js",
+      "sha256": "f2d97b97ef9ea1b3949aaf198861f06af8b450f3b219354fbac105b044fdd019",
+      "before": "b10f123c517d74f8be4705b928239f2f8e942377e29927f4bb67d55647a5a822",
+      "beforeAlso": [
+        "c501928b392a3b4b695bf74892c3c1fb17e5a816bb0e46d22343aa53e3e21e8d",
+        "9343b7925b8e25e2cf2dfe93f767f1a75f64b90524549b2caf51b3a9b407b00d"
+      ]
+    },
+    {
+      "path": "tests/database.test.js",
+      "sha256": "a6d91c24662eb46a4212adc1699ce91a897745e60fbb4dd56f4de5060d83842d",
+      "before": "c2e0a8217782ad679e2cf6542be6898c2cef1b3b9586dcadb26efa937bc9ef86",
+      "beforeAlso": [
+        "89723698ada845a1a52dc8fedc1d8a882c2151ed0d5b499a2197462585e58e3f"
+      ]
+    },
+    {
+      "path": "src/whatsapp/manager.js",
+      "sha256": "f5b3a757eaa0a32130d3e26572c2d74e1cb027f0815ec67e5f0fb7f71a1c5795",
+      "before": "7735ef4e330f3459d1f302e3f51f6ca6ff06148650d46cdefa937bfb7511e60f",
+      "beforeAlso": [
+        "c76625765b052375ab99d453a8d79927a6fe713df76968c2d2a5ac3766824d7d",
+        "f5b3a757eaa0a32130d3e26572c2d74e1cb027f0815ec67e5f0fb7f71a1c5795",
+        "f8aa64b9cb1c7afb296c93a667dbc5a3a9ebae1269bc8885e8da4b9c29655e92"
+      ]
+    },
+    {
+      "path": "src/whatsapp/store.js",
+      "before": "f4304d05463a2892f0fd715a169e0d873d29ed40ace43908a787ce4226a36d7e",
+      "sha256": "55329ad545a9a595766771b8650cfa712ee369bca8549c723cca8331d6c1086f",
+      "beforeAlso": [
+        "f4304d05463a2892f0fd715a169e0d873d29ed40ace43908a787ce4226a36d7e"
+      ]
+    },
+    {
+      "path": "src/database/followup-migration.js",
+      "before": null,
+      "sha256": "65e7c5342993d84133d8fa67f0f72d0b3c45da530118b8b1cd4a96109c95100a"
+    },
+    {
+      "path": "src/database/connection.js",
+      "sha256": "e34e64dc49dd526d1605bbd63068a31e048c82637a090523cbfee0d723583b32",
+      "before": "0c54a481252c655c851abca0b14322d540db3c5eb7ba9e6dc806c3bd03a7bf2d",
+      "beforeAlso": [
+        "ca3bf356731a06de5fa41b4f32eb8104316fe01fa47ab075bbe4ff99538646a9"
+      ]
+    },
+    {
+      "path": "src/followup/store.js",
+      "sha256": "4f807c2623e274efbde867a6ca1e7fc6d01dae62a2dd173d5477e89e09f2bbcc",
+      "before": "286efa90ecdf245421eb874d1a612a06cd294b3fcddf65f6976d4d109f033275",
+      "beforeAlso": [
+        "732392d0f71fe0214f52dce37227e22c2579f0986d7302045921dc33bbaa9858",
+        "d5fe163415864f66ed2a072111cf0b489720f0ff460e389e679f0fb857d14b83"
+      ]
+    },
+    {
+      "path": "src/followup/flow.js",
+      "sha256": "6f345c197feca70575f47caeafffd6c8c84c0b0995f41227ba650bab63a295c4",
+      "before": "349756375e5c29677e64e9c89baceae931e8cce565acba485ea2628e4530bf40",
+      "beforeAlso": [
+        "c01f74b044a487b1392975f713dd57ee76254e6929266e8f7c8d1a24b61a2283",
+        "60675d5d8c6de9bd2218389f5b53c3aa605939df9169fda308e548f93c6731f9",
+        "a8724172a2a6f45112e3e3b2a291d47d75815ee838d2c9a5d2d541c5fd0f4a94"
+      ]
+    },
+    {
+      "path": "src/followup/runner.js",
+      "sha256": "1ea8ec45da7126804d57b68965712c0551c4b64d49e02048701c23137717f745",
+      "before": "b8014c26eca5ac8ad1290679d50bdce92b4ab72a9de7df11d705263ab80942ab"
+    },
+    {
+      "path": "src/followup/ui.js",
+      "sha256": "3cbd36ab84d4edb5bb75c7d6c5c824e0875cc2674e43ea2aa381f6bfe10e6342",
+      "before": "2f91eb6e78c2217be1a0dd6788ebdb4998c00217d36de624c49806f6983c86f6",
+      "beforeAlso": [
+        "2a5a2ea552b9e06f1819d63bcb8c39560cf3cc4edc883cd854cdebbde85dd764",
+        "bbe6d2ce554f8fac066bfd16f6a2cd44c7b2f899c59f478ac9b415eb0ebaed6a"
+      ]
+    },
+    {
+      "path": "tests/whatsapp.test.js",
+      "sha256": "0c5f70e8a6476043891478291bfde8cb09b49715bc5b2e90c510f2658235b25e",
+      "before": "4c69e972a70de1d7019857a6a2fee84811fb0547b39f12d72b8ab56d4c1f4f34",
+      "beforeAlso": [
+        "ef5b84459cd900df3e0d1376ee279fa4a8e56bb4504411974ce495a010dc2fc5",
+        "dc92bffaec334a06c9f6390e49136914eae922a792e70dbb88413e4e020081ff",
+        "be2e1f076c3bc530816462ffe1c8f47cd9c956aeedef2dd6d3a571ffd6869c93"
+      ]
+    },
+    {
+      "path": "tests/personal-chat.test.js",
+      "sha256": "72cf14305b67d43f19789844d704f2779004c64568bfa4d137fde64042c42840",
+      "before": "fdcad30003b619771010fa4e541969bab397dbbb730de10e9880c1bc02fc3a97",
+      "beforeAlso": [
+        "3ce67597e9cf02915ad8a35ff8f8275f9fc93c9e79d9b3d207b913830af160e0"
+      ]
+    },
+    {
+      "path": "src/database/personal-chat-migration.js",
+      "sha256": "cc7be3cbcdf5a6d9335d6d2afff70d3926541da0d8a4c43f51d3c6a7af02c91a"
+    },
+    {
+      "path": "src/miniapp/workspace.js",
+      "sha256": "2bf6b18cc548a6994351d3418382ad4645a80e43f38a97bf52430d2cb6874d3f",
+      "before": "cfdea8e4e3b7373d1b2a6b3f65edcff7609d40872e20015f26431ef6744fb614"
+    },
+    {
+      "path": "src/personalchat/store.js",
+      "sha256": "a6cba2a8892416ef0af5ac02b60d2c5a05e36fbadcd30e68eedfbefa11dcbb63",
+      "before": "438a9d2ebabd9e83343ec6d260b7bf29a67b297abb31e63971ac1b120638a82f",
+      "beforeAlso": [
+        "290528d74792a66c4eae10a479ab65cfeef848dd19bfe0913e552c8be0e81714"
+      ]
+    },
+    {
+      "path": "src/personalchat/service.js",
+      "sha256": "a6cba2a8892416ef0af5ac02b60d2c5a05e36fbadcd30e68eedfbefa11dcbb63",
+      "before": "65ab2fecc6b7a429bf3f8b6a31bad46729995952865ae27c610e252d9fa678ce",
+      "beforeAlso": [
+        "5df81a0fad054002bb4ef3a50714846ed28c9f6683a80cfabdccf5fcfe5a4f02"
+      ]
+    },
+    {
+      "path": "src/personalchat/flow.js",
+      "sha256": "a6cba2a8892416ef0af5ac02b60d2c5a05e36fbadcd30e68eedfbefa11dcbb63",
+      "before": "2614f2a68df83e6659dbacd2e8c98cb6f4cafdc0550780755f0f0813fc09a008",
+      "beforeAlso": [
+        "34a217e5f0a642e27d102093dbe3a7bb6a1dfceabf1557aff2368520d5f84c96"
+      ]
+    },
+    {
+      "path": "tests/gs-resilience-views.test.js",
+      "sha256": "bdd7a4c110e08841696d10da6a27f409243e60b482a605bf482302c489bc6cd0",
+      "before": "80ea1279b9c38f1170d7420050a76b924784a7145c8bb628b2c536d017c74015"
+    }
+  ]
+}
