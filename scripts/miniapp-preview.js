@@ -1,0 +1,4 @@
+// Local design preview: serves only public Mini App assets, never installation data.
+import {createServer} from 'node:http';import {readFile} from 'node:fs/promises';import {resolve,extname,sep} from 'node:path';
+const args=process.argv.slice(2),root=resolve('miniapp'),port=Number(args[args.indexOf('--port')+1])||4173;
+createServer(async(req,res)=>{try{const u=new URL(req.url,'http://localhost');const path=resolve(root,u.pathname==='/'?'index.html':decodeURIComponent(u.pathname.slice(1)));if(!path.startsWith(root+sep))throw Error();const body=await readFile(path);res.setHeader('Content-Type',({'.html':'text/html','.js':'application/javascript','.css':'text/css','.ttf':'font/ttf','.woff2':'font/woff2','.png':'image/png'})[extname(path)]||'text/plain');res.end(body);}catch{res.writeHead(404);res.end('Not found');}}).listen(port,'0.0.0.0',()=>console.log('Mini App public preview on port '+port+'; add ?demo=1 for sample data.'));
